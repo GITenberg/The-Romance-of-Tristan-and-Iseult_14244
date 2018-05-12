@@ -1,0 +1,41 @@
+_repo: The-Romance-of-Tristan-and-Iseult_14244
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bédier, Joseph
+    aliases:
+    - Bédier, Charles Marie Joseph
+    - Bedier, Joseph
+    birthdate: 1864
+    deathdate: 1938
+    gutenberg_agent_id: '5429'
+    url: http://www.gutenberg.org/2009/agents/5429
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_B%C3%A9dier
+description: ''
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Tristan (Legendary character) -- Romances -- Adaptations'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcsh 'Iseult (Legendary character) -- Romances -- Adaptations'
+title: The Romance of Tristan and Iseult
+url: http://www.gutenberg.org/ebooks/14244
